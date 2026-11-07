@@ -1,0 +1,33 @@
+{
+  "site_name": "Theology and AI",
+  "site_url": "https://gl.joyal.dev",
+  "base_path": "",
+  "cname": "gl.joyal.dev",
+  "blog_feed": "https://www.theologyai.com/feeds/posts/default",
+  "old_hosts": [
+    "theologyai.com",
+    "www.theologyai.com"
+  ],
+  "tagline": "Efficient or humanistic society? A blog on theology and artificial intelligence.",
+  "hero_title": "Thinking through theology and artificial intelligence",
+  "hero_text": "A space to ask whether our technology will serve an efficient society or a humanistic one, and what faith has to say about it.",
+  "author": "Tinku Thompson",
+  "author_title": "Doctor of Ministry, Bethel University",
+  "author_bio": "Tinku Thompson completed a Doctor of Ministry program at Bethel University. This blog is a space to think through theology and AI. Views are the author's own.",
+  "thesis": "Creator God, Humans, and Artificial Intelligence: Framework to Address Theological and Relational Issues",
+  "contact_email": "",
+  "popular_titles": [
+    "AI in the End Times: Unraveling Revelation",
+    "Justin Bieber's AI-Generated Song Holy Jesus",
+    "AI Tools to Convert Sermons"
+  ],
+  "home_recent_count": 6,
+  "privacy_updated": "2026-11-07",
+  "blog_feed_fallbacks": [
+    "https://theologyai.com/feeds/posts/default"
+  ],
+  "blog_dir": "blog",
+  "legacy_redirects": false,
+  "full_title": "Theology and AI (Efficient or Humanistic Society)",
+  "header_tagline": "Theology and Artificial Intelligence (AI) Blog"
+}

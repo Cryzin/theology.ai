@@ -1,0 +1,15 @@
+{
+  "name": "theology-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site for Theology and AI. No Node dependencies; npm scripts just run the Python updater.",
+  "engines": {
+    "node": ">=26"
+  },
+  "scripts": {
+    "update": "python3 tools/update_site.py",
+    "check": "python3 tools/update_site.py --check",
+    "rebuild": "python3 tools/update_site.py --rebuild",
+    "verify": "python3 tools/update_site.py --verify"
+  }
+}
